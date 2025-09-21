@@ -17,7 +17,7 @@ Click on a die to "hold" it between rolls. You have **1 minute** ⏱️ to finis
 ---
 
 ## 📷 Screenshot
-*(Add a screenshot of your game UI here)*
+![Screenshot](/src/images/image.png)
 
 ---
 
